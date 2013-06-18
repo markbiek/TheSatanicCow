@@ -1,4 +1,6 @@
 TheSatanicCow
 =============
 
-TheSatanicCow.com
+http://thesataniccow.com
+
+At the moment, just fooling around with SVGs
